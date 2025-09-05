@@ -1,16 +1,42 @@
-# elite_skill
+# Elite Skill
 
-A new Flutter project.
+Elite Skills is a **multi-platform basketball coaching and training app** designed to inspire, train, and develop young athletes through an engaging user interface and interactive features. Built using **Flutter**, the app runs smoothly on **Android, iOS, web, and desktop platforms** including Windows, macOS, and Linux.
+
+---
+
+## Features
+
+- Comprehensive basketball training modules and drills
+- Visual art and gallery sections to motivate young athletes
+- Cross-platform support for multiple devices
+- Custom fonts and media-rich content
+- Easy-to-navigate and user-friendly interface
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starter template for a Flutter-based basketball training app.
 
-A few resources to get you started if this is your first Flutter project:
+If you are new to Flutter or this project, here are some resources to help you get started:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Codelab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter Official Documentation](https://docs.flutter.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## How to Run
+
+```bash
+# Clone this repository
+git clone https://github.com/yourusername/elite_skill.git
+
+# Navigate into project folder
+cd elite_skill
+
+# Get dependencies
+flutter pub get
+
+# Run the app
+flutter run
