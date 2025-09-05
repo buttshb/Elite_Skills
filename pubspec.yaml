@@ -1,0 +1,74 @@
+name: elite_skill
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dart_gsap: ^0.2.0
+  cupertino_icons: ^1.0.8
+  google_fonts: ^6.3.0
+  visibility_detector: ^0.4.0
+  animated_text_kit: ^4.2.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/bg.jpg.png
+    - assets/basketbal.png
+    - assets/paint.png
+    - assets/logo.png
+    - assets/reach-card.gif
+    - assets/card.gif
+    - assets/Easel.png
+    - assets/boyjump.png
+    - assets/goal.gif
+    - assets/goal1.gif
+    - assets/goal2.gif
+    - assets/OIP.jpg
+    - assets/EliteSkill.png
+    - assets/art-heading.png
+    - assets/girl-Painting.png
+    - assets/Boy-Painting.png
+    - assets/kids-group.png
+    - assets/galery-1.jpg
+    - assets/galery-2.jpg
+    - assets/galery-3.jpg
+    - assets/galery-4.png
+    - assets/galery-5.jpg
+    - assets/galery-6.jpg
+    - assets/goal-33.gif
+    - assets/Champions.png
+    - assets/ethosPic.png
+    - assets/ReadyForPlay.png
+    - assets/Gallery-new1.png
+    - assets/Gallery-new2.png
+    - assets/Gallery-new3.png
+    - assets/Gallery-new4.png
+    - assets/footer-card-1.jpg
+    - assets/footer-card-2.png
+    - assets/footer-card-3.png
+    - assets/footer-card-4.png
+    - assets/footer-card-5.png
+    - assets/testinmonial-item5.png
+    - assets/testinmonial-item6.png
+
+  fonts:
+    - family: Aquire
+      fonts:
+        - asset: fonts/Aquire-Bold.ttf.otf
+        - asset: fonts/Aquire-Light.ttf.otf
+          weight: 300
+        - asset: fonts/Aquire-Regular.ttf.otf
+          weight: 700
